@@ -1,6 +1,6 @@
 # flutter_app
 
-DOuble Dice Game 
+Double Dice Game 
 
 ## Execution
 
